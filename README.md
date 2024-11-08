@@ -21,5 +21,5 @@ Hi there 👋. I am Shaobo Cui, a PhD Student 👨‍🎓 @ EPFL. I am supervise
 - 👨‍💻 Former Role: Senior NLP Engineer, Alibaba DAMO Academy
 - ✨ Developed the recommendation engine for Alibaba’s Virtual Influencer (Winter Olympics 2022)
 - 📜 Patents: 9
-- 🔧 Open Source: [fancy-title](https://github.com/cui-shaobo/fancy-title), [causal-strength](https://github.com/cui-shaobo/causal-strength)
+- 🔧 Open Source Software: [fancy-title](https://github.com/cui-shaobo/fancy-title), [causal-strength](https://github.com/cui-shaobo/causal-strength)
 - 📫 Open to supervising master’s projects for students passionate about causality
