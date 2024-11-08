@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋. I am a PhD Student 👨‍🎓 @ EPFL. Supervised by [Prof. Boi Faltings](https://en.wikipedia.org/wiki/Boi_Faltings), co-supervised by [Prof. Antoine Bosselut](https://atcbosselut.github.io/), and mentored by [Prof. Michael C. Gastpar](https://people.epfl.ch/michael.gastpar?lang=en).
+Hi there 👋. I am Shaobo Cui, a PhD Student 👨‍🎓 @ EPFL. I am supervised by [Prof. Boi Faltings](https://en.wikipedia.org/wiki/Boi_Faltings), co-supervised by [Prof. Antoine Bosselut](https://atcbosselut.github.io/), and mentored by [Prof. Michael C. Gastpar](https://people.epfl.ch/michael.gastpar?lang=en).
 - 🔍 Focus: Human-Machine Interaction & Causal Reasoning. 
 - 🏅 Honors: Rising Star (Alibaba, 2020) | DAAD AInet Fellowship (2024)
 - 👨‍💻 Former Role: Senior NLP Engineer, Alibaba DAMO Academy
