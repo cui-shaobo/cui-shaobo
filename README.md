@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Currently, 👨‍🎓 PhD Student | EPFL. Focus: Human-Machine Interaction & Causal Reasoning. Supervised by Prof. Boi Faltings. Co-supervised by Prof. Antoine Bosselut and mentored by Prof. Michael C. Gastpar.
+Hi, Hi there 👋. I am a PhD Student 👨‍🎓 @ EPFL. Supervised by Prof. Boi Faltings. Co-supervised by Prof. Antoine Bosselut and mentored by Prof. Michael C. Gastpar.
+- 🔍 Focus: Human-Machine Interaction & Causal Reasoning. 
 - 🏅 Honors: Rising Star (Alibaba, 2020) | DAAD AInet Fellowship (2024)
 - 👨‍💻 Former Role: Senior NLP Engineer, Alibaba DAMO Academy
 - ✨ Developed the recommendation engine for Alibaba’s Virtual Influencer (Winter Olympics 2022)
