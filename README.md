@@ -22,4 +22,4 @@ Hi there 👋. I am a PhD Student 👨‍🎓 @ EPFL. Supervised by [Prof. Boi F
 - ✨ Developed the recommendation engine for Alibaba’s Virtual Influencer (Winter Olympics 2022)
 - 📜 Patents: 9
 - 🔧 Open Source: [fancy-title](https://github.com/cui-shaobo/fancy-title), [causal-strength](https://github.com/cui-shaobo/causal-strength)
-- 📫 Open to supervising master’s projects with budgeted support for students passionate about causality
+- 📫 Open to supervising master’s projects for students passionate about causality
